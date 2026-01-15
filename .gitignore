@@ -38,13 +38,8 @@ ENV/
 *~
 .DS_Store
 
-# Data files (if you don't want to push large CSV files)
-*.csv
-deliveries.csv
 
-# Generated reports
-*.pdf
-report.pdf
+
 
 # Environment variables
 .env
