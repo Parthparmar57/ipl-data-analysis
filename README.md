@@ -1,4 +1,4 @@
-# 🏏 IPL Data Analysis Report Generator - ML
+# 🏏 IPL Data Analysis Report Generator 
 
 A Python-based data analysis project that processes **IPL (Indian Premier League) ball-by-ball delivery data** to generate a **professional, multi-page PDF report** with rich visual insights. The project uses **Pandas** for data manipulation and **Matplotlib** for high-quality visualizations.
 
