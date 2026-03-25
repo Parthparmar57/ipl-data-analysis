@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import numpy as np
 import os
-
 # Set style for better-looking plots
 plt.style.use('seaborn-v0_8-darkgrid')
 plt.rcParams['font.family'] = 'sans-serif'
